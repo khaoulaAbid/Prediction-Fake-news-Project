@@ -1,7 +1,5 @@
 # Prediction-Fake-news-Project
 
-# Fake News NLP - ECF M2
-
 Pipeline NLP complet pour la detection de desinformation sur des titres de presse, avec:
 - pretraitement texte (regex, contractions, stopwords, lemmatisation),
 - modelisation TensorFlow (Dense TF-IDF + BiLSTM embeddings),
