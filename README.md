@@ -20,8 +20,7 @@ Le projet suit l'enonce ECF "Detection automatique de desinformation dans les ti
 ```text
 fake_news_nlp/
 ├── notebook/
-│   ├── ecf_fake_news.ipynb
-│   └── ecf_fake_news.executed.ipynb
+│   ├── fake_news_prediction.ipynb
 ├── api/
 │   └── main.py
 ├── models/
